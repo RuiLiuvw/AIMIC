@@ -4,9 +4,7 @@ AIMIC is a versatile code-free deep learning graphical user interface(GUI) to di
 
 The user includes but not limited to health professionals and scientists in hospitals and laboratories.
 
-<p align="left"> <img src=AIMIC.pdf align="center" width="1080px">
-<p align="left"> <img src=train process.pdf align="center" width="1080px">
-<p align="left"> <img src=inference process.pdf align="center" width="1080px">
+<p align="left"> <img src=workflow.PNG align="center" width="1080px">
 
 ## Download and use the software
 
