@@ -1,0 +1,25 @@
+backup
+dataset
+pretrained weights
+Inference output
+Files for test the GUI
+dist
+build
+.idea
+latency
+
+test000.py
+test2.py
+test1.py
+
+logo.ico
+
+tutorial
+exp
+
+AIMedicalWorld.spec
+
+sample
+__pycache__
+
+!lib/data/dataset
