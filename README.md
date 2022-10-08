@@ -12,7 +12,7 @@ AIMIC is a versatile code-free deep learning graphical user interface(GUI) to cl
 
 The interface of **AIMIC** is designed by [Rui Liu](https://github.com/RuiLiuvw).
 
-The functions of **AIMIC** are realized by [Wei Dai](https://github.com/anthonyweidai) and [Rui Liu](https://github.com/RuiLiuvw).
+The functions of **AIMIC** are realized by [Rui Liu](https://github.com/RuiLiuvw) and [Wei Dai](https://github.com/anthonyweidai).
   
 We are also very grateful to https://pytorch.org/ for providing such an amazing framework for deep learning development.
 
