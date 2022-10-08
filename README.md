@@ -6,9 +6,6 @@ The user includes but not limited to health professionals and scientists in hosp
 
 <p align="left"> <img src=workflow.PNG align="center" width="1080px">
 
-## Download and use the software
-
-Please refer to (https://drive.google.com/file/d/1E43GTSyrZmEyxQtcdrtSVKyb1-3BiL41/view?usp=sharing) for downloading the software. After downloading the .zip file, decompress it and run the AIMIC.exe under the root directory.
 
 ## Acknoledgement
 
