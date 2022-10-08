@@ -1,6 +1,6 @@
 ## AIMIC
 
-AIMIC is a versatile code-free deep learning graphical user interface(GUI) to class microscopic images.
+AIMIC is a versatile code-free deep learning graphical user interface(GUI) to classify microscopic images.
 
 
 <p align="left"> <img src=workflow.PNG align="center" width="1080px">
