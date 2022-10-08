@@ -2,7 +2,7 @@
 
 AIMIC is a versatile code-free deep learning graphical user interface(GUI) to classify microscopic images.
 
-PS: We are working on further development to make the software more versatile. The source code will be released after the project is closed.
+PS: We are working on further development to make the software more versatile. The source code will be released after the whole project is closed.
 
 <p align="left"> <img src=workflow.PNG align="center" width="1080px">
 
