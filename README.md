@@ -1,8 +1,7 @@
 ## AIMIC
 
-AIMIC is a versatile code-free deep learning graphical user interface(GUI) to diagnose diseases visually.
+AIMIC is a versatile code-free deep learning graphical user interface(GUI) to class microscopic images.
 
-The user includes but not limited to health professionals and scientists in hospitals and laboratories.
 
 <p align="left"> <img src=workflow.PNG align="center" width="1080px">
 
